@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV11",CCTV-11 戏曲[高清]
-http://192.168.3.11:23234/rtp/239.3.1.152:8120
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://huangsuming.github.io/iptv/logo/cctv/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://huangsuming.github.io/iptv/logo/cctv/CCTV2.png" group-title="央视",CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -73,7 +71,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Chongqing.png" group-title="卫视",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Dongnan.png" group-title="卫视",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Gansu.png" group-title="卫视",甘肃卫视
@@ -94,10 +91,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Hubei.png" group-title="卫视",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Jilin.png" group-title="卫视",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Neimeng.png" group-title="卫视",内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Ningxia.png" group-title="卫视",宁夏卫视
@@ -108,7 +103,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Qinghai.png" group-title="卫视",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Shanxi_.png" group-title="卫视",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://huangsuming.github.io/iptv/logo/weishi/Shanxi.png" group-title="卫视",陕西卫视
