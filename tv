@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CCTV11",CCTV-11 戏曲[高清]
+http://192.168.3.11:23234/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://huangsuming.github.io/iptv/logo/cctv/CCTV1.png" group-title="央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://huangsuming.github.io/iptv/logo/cctv/CCTV2.png" group-title="央视",CCTV2
